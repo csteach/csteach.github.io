@@ -20,3 +20,5 @@ summary: weekly assignment for COMP 388/441
   * keep a record of any notes, images, snippets, web clippings etc for review later in the semester
     * eg: you might wish to store these notes in [Pocket](http://getpocket.com), [Pinterest](http://www.pinterest.com/) 
     or on a [Trello](https://trello.com/) board
+    
+[An Introduction to Pocket](http://vimeo.com/40168555)
