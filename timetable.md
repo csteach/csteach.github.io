@@ -27,8 +27,12 @@ This class will meet at the following time and place,
 	* No class: 2nd April 2015
 * Final class: 23rd April 2015
 * Exam week: 27th April to 2nd May 2015
-	* Class exam scheduled: 30th April 2015
+	* Final assessment due on 30th April 2015 @ 7pm
 	
 #### Coursework Schedule
 
-This will be updated during the Spring semester.
+* assessment dates per course section will be updated throughout the semester
+* Thursday 23rd April 2015
+  * Demonstration of final assessment @ 7pm
+* Thursday 30th April 2015
+  * Final assessment report due @ 7pm

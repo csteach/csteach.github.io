@@ -16,3 +16,7 @@ Course notes and material will be added to this page during the Spring semester.
 
 This material will be updated on a weekly basis.
 
+#### Notes
+
+* week 1 - 15th January 2015
+  * [course]()

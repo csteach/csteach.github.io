@@ -22,7 +22,7 @@ For course enquiries, please use one of the following contact options
 * Email: [nhayward@luc.edu](mailto:nhayward@luc.edu?subject=COMP 388/441 Enquiry)
 * [Faculty Page](http://www.luc.edu/cs/people/ftfaculty/haywardnicholas.shtml)
 
-Office hours for this semester are Thursday 5.30pm to 6.30pm [by appointment](mailto:nhayward@luc.edu?subject=Comp 388/441 Appointment).
+Office hours for this semester are Thursday 6pm to 7pm [by appointment](mailto:nhayward@luc.edu?subject=Comp 388/441 Appointment).
 
 Scheduled appointments will be held at the WTC by agreement.
 

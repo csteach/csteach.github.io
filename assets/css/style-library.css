@@ -48,14 +48,14 @@ border-bottom: 1px solid #eeeeee;
 
 /* customised nav */
 #side-left .navbar-default  {
-background-color: #f7f7f7;
+background-color: #1a3852;
 border-bottom: 1px solid #eeeeee;
 padding: 10px;
 margin-bottom: 5px;
 }
 
 #side-left .navbar-default  a {
-color: #363b4f;
+color: #ffffff;
 }
 
 #side-left .navbar-collapse {
@@ -65,11 +65,21 @@ padding-right: 0;
 
 /* navbar-default mods */
 #side-left .navbar-default .navbar-toggle {
-border-color: #dedede;
+border-color: #eeeeee;
+}
+
+#side-left .navbar-default .navbar-toggle:hover {
+border-color: #eeeeee;
+background-color: #aaaaaa;
+}
+
+#side-left .navbar-default .navbar-toggle:focus {
+border-color: #eeeeee;
+background-color: #1a3852;
 }
 
 #side-left .navbar-default .navbar-toggle .icon-bar {
-background-color: #000000;
+background-color: #ffffff;
 }
 
 #bs-example-navbar-collapse-1 ul li.active a {

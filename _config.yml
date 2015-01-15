@@ -1,4 +1,5 @@
 name: "csteach"
+subname: "human-computer interface design"
 description: "a collection of resources for cs teaching..."
 
 url: "http://localhost:4000"

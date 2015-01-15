@@ -20,3 +20,21 @@ We are not responsible for the content of external websites, and whilst we try t
 
 If you have any suggestions for additions to this section of the site, please feel free to [contact me](mailto:nhayward@luc.edu?subject=Links & Resources Suggestions).
 
+***
+
+#### Articles
+
+* [Microsoft's Metro Design](/assets/docs/Windows_Metro.PDF)
+
+#### Websites
+
+* Apple - [UI Design Basics](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/index.html)
+* [Dark Patterns](http://darkpatterns.org/)
+* Gnome - [Human Interface Guidelines](https://developer.gnome.org/)
+* Google - [Material Design](http://www.google.com/design/spec/material-design/introduction.html)
+* Microsoft - [Guidelines for Windows Runtime apps](http://msdn.microsoft.com/library/windows/apps/hh465424.aspx)
+* [usability.gov](http://www.usability.gov/)
+  * ["Research-Based Web Design and Usability Guidelines"](http://guidelines.usability.gov/)
+  * ["What & Why of Usability"](http://www.usability.gov/what-and-why/index.html)
+  * ["How To & Tools"](http://www.usability.gov/how-to-and-tools/index.html)
+
