@@ -19,4 +19,4 @@ This material will be updated on a weekly basis.
 #### Notes
 
 * week 1 - 15th January 2015
-  * [course]()
+  * [course](/assets/docs/Comp388-441-week1.pdf)
