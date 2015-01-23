@@ -18,5 +18,10 @@ This material will be updated on a weekly basis.
 
 #### Notes
 
-* week 1 - 15th January 2015
+***
+
+##### Week 2 - 22nd January 2015
+  * [course](/assets/docs/Comp388-441-week2.pdf)
+
+##### Week 1 - 15th January 2015
   * [course](/assets/docs/Comp388-441-week1.pdf)

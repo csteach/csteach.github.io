@@ -26,6 +26,13 @@ If you have any suggestions for additions to this section of the site, please fe
 
 * [Microsoft's Metro Design](/assets/docs/Windows_Metro.PDF)
 
+#### Videos
+
+* [Grey square optical illusion](https://www.youtube.com/watch?v=z9Sen1HTu5o)
+* [Google's Material Design](https://www.youtube.com/watch?v=p4gmvHyuZzw)
+* [Milton Glaser](http://vimeo.com/11577085)
+* [No Such Thing As Color - what it's like to be color blind](https://www.youtube.com/watch?v=AUsups6Mk3I)
+
 #### Websites
 
 * Apple - [UI Design Basics](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/index.html)
