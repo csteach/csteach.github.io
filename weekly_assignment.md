@@ -22,7 +22,7 @@ summary: weekly assignment for COMP 388/441
     * what is the design and development history for your chosen products?
       * ie: can you trace a series of design compromises and improvements in previous models up to the current product release?
       
-An example of the above might be the design and development of the Apple iPod, iPad, or iPhone. 
+An example of the above might be the design and development of the user interface for the Apple iPod, iPad, or iPhone. 
 
 This product review provides an initial opportunity to consider products and designs for your final course assessment.
 
