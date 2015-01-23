@@ -31,7 +31,7 @@ by the end of Monday 26th January 2015 with your [Trello](https://trello.com/) u
 you will need to register for their service. 
 
 After receiving your Trello username, I will add you to the class organisation. Please post your product ideas, both 
-good and bad, to the **Product Brainstorming** board by the end of Wednesday 28th January 2015.
+good and bad, to the [Product Brainstorming](https://trello.com/comp388441luc) board by the end of Wednesday 28th January 2015.
 
 This Trello organisation is private, and only visible to those enrolled in this course. 
 
