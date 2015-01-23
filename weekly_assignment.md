@@ -27,8 +27,10 @@ An example of the above might be the design and development of the Apple iPod, i
 This product review provides an initial opportunity to consider products and designs for your final course assessment.
 
 I shall be creating a [Trello](https://trello.com/comp388441luc) board for this work. Please [contact me](mailto:nhayward@luc.edu?subject=Trello) 
-by the end of Monday 26th January 2015 with your [Trello](https://trello.com/) username. If you are new to [Trello](https://trello.com/) 
-you will need to register for their service. After you are added to this Trello organisation, please post your product ideas, both 
+by the end of Monday 26th January 2015 with your [Trello](https://trello.com/) username. If you are new to [Trello](https://trello.com/), 
+you will need to register for their service. 
+
+After receiving your Trello username, I will add you to the class organisation. Please post your product ideas, both 
 good and bad, to the **Product Brainstorming** board by the end of Wednesday 28th January 2015.
 
 This Trello organisation is private, and only visible to those enrolled in this course. 
