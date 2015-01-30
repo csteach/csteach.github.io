@@ -20,6 +20,10 @@ References will be cited at the end of each week's notes.
 
 There is no specific textbook for this course.
 
+###### Week 3 - 29th January 2015
+
+  * Norman, D. *The Design of Everyday Things.* Basic Books. 2013.
+
 ###### Week 2 - 22nd January 2015
 
   * Wolfmaier T. *Designing for the color-challenged: A challenge.* ITG Publication. 1999.

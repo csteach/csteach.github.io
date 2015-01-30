@@ -28,10 +28,13 @@ If you have any suggestions for additions to this section of the site, please fe
 
 #### Videos
 
+* [Adobe Lightroom Metadata](https://helpx.adobe.com/lightroom/how-to/lightroom-filter-metadata.html)
 * [Grey square optical illusion](https://www.youtube.com/watch?v=z9Sen1HTu5o)
 * [Google's Material Design](https://www.youtube.com/watch?v=p4gmvHyuZzw)
 * [Milton Glaser](http://vimeo.com/11577085)
 * [No Such Thing As Color - what it's like to be color blind](https://www.youtube.com/watch?v=AUsups6Mk3I)
+* [Super Mario Bros](http://youtu.be/2ZuhSB64quY?t=27s)
+* [Super Mario Bros - Speed Run](https://www.youtube.com/watch?v=kcmKPmj9yeE)
 
 #### Websites
 

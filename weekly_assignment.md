@@ -12,6 +12,11 @@ published: true
 summary: weekly assignment for COMP 388/441
 ---
 
+#### Week 3 - 29th January 2015
+1. Please prepare for a short quiz at the start of next week's class. This quiz will include the following:
+    * material covered within the class [notes](notes), weeks 1 to 3, and material discussed in class
+    * multiple choice questions
+
 #### Week 2 - 22nd January 2015
 * Review this week's [notes and material](/notes), which includes the class notes
 * Please select two digital products that you like, and two that you dislike.
