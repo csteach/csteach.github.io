@@ -16,6 +16,9 @@ summary: weekly assignment for COMP 388/441
 1. Please prepare for a quiz at the start of next week's class. This quiz will include the following:
     * material covered within the class [notes](notes), weeks 1 to 3, and material discussed in class
     * multiple choice questions
+    * please ensure you have a registered Google account, which we'll use to complete the online form
+    * please ensure you bring an internet enabled device to class
+      * eg: laptop, tablet, smartphone...
 
 #### Week 2 - 22nd January 2015
 * Review this week's [notes and material](/notes), which includes the class notes
