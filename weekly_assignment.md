@@ -13,7 +13,7 @@ summary: weekly assignment for COMP 388/441
 ---
 
 #### Week 3 - 29th January 2015
-1. Please prepare for a short quiz at the start of next week's class. This quiz will include the following:
+1. Please prepare for a quiz at the start of next week's class. This quiz will include the following:
     * material covered within the class [notes](notes), weeks 1 to 3, and material discussed in class
     * multiple choice questions
 
