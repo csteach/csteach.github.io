@@ -12,15 +12,38 @@ published: true
 summary: weekly assignment for COMP 388/441
 ---
 
+#### Week 4 - 5th February 2015
+1) The following assignment is your first preparatory work towards the final course assessment, as 
+detailed in the overall [coursework](/coursework) outline, no.2. 
+
+* Please prepare, either within your group or individually, a brief lightning presentation of approximately 5 minutes maximum.
+It should include the following information:
+  * brief outline of your initial concept/concepts for the final assessment
+  * what is good and bad with the current interface?
+    * in particular, consider this with regard to material we have covered over the first four weeks of the semester
+  * initial thoughts on aspects you'd like to improve and modify for your final assessment
+  * brief comments on proposed development plan up to Spring break, week 7 of the current semester
+
+Presentations will be scheduled for the start of next week's class, which begins at 7pm on Thursday 12th February 2015.
+  
+**NB:** A formal slide presentation is optional. It is up to you to decide upon a preferred presentation style for this assignment. 
+
+2) Please review your quiz result.
+  
+  * your results will be sent out on Friday 6th February 2015 to the provided LUC email address
+  * if you have not received your result by the weekend, please [contact](/contact) me
+  
+3) Please ensure you have read through all of the course notes for the first four weeks of the semester.
+
 #### Week 3 - 29th January 2015
-1. Please prepare for a quiz at the start of next week's class. This quiz will include the following:
-    * material covered within the class [notes](notes), weeks 1 to 3, and material discussed in class
-    * multiple choice questions
-    * please ensure you have a registered Google account, which we'll use to complete the online form
-    * please ensure you bring an internet enabled device to class
-      * eg: laptop, tablet, smartphone...
+* Please prepare for a quiz at the start of next week's class. This quiz will include the following:
+  * material covered within the class [notes](/notes), weeks 1 to 3, and material discussed in class
+  * multiple choice questions
+  * please ensure you have a registered Google account, which we'll use to complete the online form
+  * please ensure you bring an internet enabled device to class
+    * eg: laptop, tablet, smartphone...
       
-Quiz URL = [http://goo.gl/forms/pi9Xcm7Hv3](http://goo.gl/forms/pi9Xcm7Hv3)
+<!--Quiz URL = [http://goo.gl/forms/pi9Xcm7Hv3](http://goo.gl/forms/pi9Xcm7Hv3)-->
 
 #### Week 2 - 22nd January 2015
 * Review this week's [notes and material](/notes), which includes the class notes

@@ -20,6 +20,10 @@ References will be cited at the end of each week's notes.
 
 There is no specific textbook for this course.
 
+###### Week 4 - 5th February 2015
+
+  * Miller, G. A. *The magical number seven, plus or minus two: Some limits on our capacity for processing information.*. Psychological Review, Vol. 63, Issue 2. PP. 81-97. 1956.
+
 ###### Week 3 - 29th January 2015
 
   * Norman, D. *The Design of Everyday Things.* Basic Books. 2013.
