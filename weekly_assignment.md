@@ -19,6 +19,8 @@ summary: weekly assignment for COMP 388/441
     * please ensure you have a registered Google account, which we'll use to complete the online form
     * please ensure you bring an internet enabled device to class
       * eg: laptop, tablet, smartphone...
+      
+Quiz URL = [http://goo.gl/forms/pi9Xcm7Hv3](http://goo.gl/forms/pi9Xcm7Hv3)
 
 #### Week 2 - 22nd January 2015
 * Review this week's [notes and material](/notes), which includes the class notes
