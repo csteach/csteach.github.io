@@ -31,7 +31,6 @@ This class will meet at the following time and place,
 	
 #### Coursework Schedule
 
-* assessment dates per course section will be updated throughout the semester
 * Thursday 23rd April 2015
   * Demonstration of final assessment @ 7pm
 * Thursday 30th April 2015
