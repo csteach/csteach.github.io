@@ -47,8 +47,6 @@ application, tool or publication.
 	* group report must clearly define each student's work and contributions, where applicable
 	  * no attribution, no mark
 
-*NB: this coursework overview will be updated throughout the semester to reflect section requirements and specific goals.*
-
 #### Grading
 
 Grades will be issued for appropriate weekly or section tasks, where applicable, and for each of the core assessments listed above. 
