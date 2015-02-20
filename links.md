@@ -22,8 +22,9 @@ If you have any suggestions for additions to this section of the site, please fe
 
 ***
 
-#### Articles
+#### Articles / Papers
 
+* [Keystroke-level model for advanced mobile phone interaction](http://dl.acm.org/citation.cfm?id=1240851)
 * [Microsoft's Metro Design](/assets/docs/Windows_Metro.PDF)
 
 #### Videos
@@ -37,6 +38,9 @@ If you have any suggestions for additions to this section of the site, please fe
 * [Sherlock Holmes' Mind Palace](http://www.criticalcommons.org/Members/ccManager/clips/sherlocks2e2memorypalace.mp4/view)
 * [Super Mario Bros](http://youtu.be/2ZuhSB64quY?t=27s)
 * [Super Mario Bros - Speed Run](https://www.youtube.com/watch?v=kcmKPmj9yeE)
+* TED Talks
+  * [Flow, the secret to happiness](http://www.ted.com/talks/mihaly_csikszentmihalyi_on_flow)
+  * [How your "working memory" makes sense of the world](http://www.ted.com/talks/peter_doolittle_how_your_working_memory_makes_sense_of_the_world?language=en)
 * [Why the Human Brain Can't Multitask](https://www.youtube.com/watch?v=BpD3PxrgICU)
 
 #### Websites
@@ -50,4 +54,5 @@ If you have any suggestions for additions to this section of the site, please fe
   * ["Research-Based Web Design and Usability Guidelines"](http://guidelines.usability.gov/)
   * ["What & Why of Usability"](http://www.usability.gov/what-and-why/index.html)
   * ["How To & Tools"](http://www.usability.gov/how-to-and-tools/index.html)
+* Yahoo - [Yahoo! Weather Mobile App](https://mobile.yahoo.com/weather/)
 

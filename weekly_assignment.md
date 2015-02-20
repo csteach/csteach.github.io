@@ -12,6 +12,25 @@ published: true
 summary: weekly assignment for COMP 388/441
 ---
 
+#### Week 6 - 19th February 2015
+1) Please review this week's notes, in particular the material concerning the KLM-GOMS model. 
+
+2) Relative to your chosen project for the final assessment, please consider and define the following,
+
+  * the primary, default functionality for your project's product, website, service etc.
+    * in effect, your project's 'big, green button'
+    * compare and contrast the original product with your goals for the updated design
+  * test user interaction with this defined primary, default functionality using the KLM-GOMS model
+    * please refer to the KLM-GOMS model as defined in this week's notes
+      * use the example listed in this week's notes as a guide to test your own project's product
+      * test the original product, and then consider how this might be improved in your new design
+  * post this information to your project's list on the Group Projects board on the course's Trello organisation,
+    * [Group Projects](https://trello.com/b/Hik9bcmi/group-projects)
+    
+3)  Please add a weekly status report on work conducted towards your project on the above Trello board. This should 
+include an analysis and initial results for the KLM-GOMS work completed above, and any other research or development conducted
+this week.
+  
 #### Week 5 - 12th February 2015
 1) Please send me a copy of your presentation or accompanying notes, which was completed as part of your week 4 assignment.
 
