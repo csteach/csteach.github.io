@@ -31,6 +31,8 @@ If you have any suggestions for additions to this section of the site, please fe
 
 * [Adobe Lightroom Metadata](https://helpx.adobe.com/lightroom/how-to/lightroom-filter-metadata.html)
 * [Andi Bell explains the 'link method' memory technique](https://www.youtube.com/watch?v=9NROegsMqNc)
+* [Eye-tracking - Etre Demo](https://www.youtube.com/embed/lo_a2cfBUGc)
+* [Eye-tracking - Google Chrome in Japan](https://www.youtube.com/embed/-K94bZIAiGo)
 * [Grey square optical illusion](https://www.youtube.com/watch?v=z9Sen1HTu5o)
 * [Google's Material Design](https://www.youtube.com/watch?v=p4gmvHyuZzw)
 * [Milton Glaser](http://vimeo.com/11577085)
@@ -47,8 +49,13 @@ If you have any suggestions for additions to this section of the site, please fe
 
 * Apple - [UI Design Basics](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/index.html)
 * [Dark Patterns](http://darkpatterns.org/)
+* Gamification - [Yu-Kai Chou & Gamification](http://www.yukaichou.com/gamification-examples/top-10-gamification-examples-human-race/#.VN0SLFPF-Qw)
+* Gestalt Principles - Brief Overviews
+  * [APRK Topics](http://frnsys.com/topics/gestalt)
+  * [Web Designer Depot](http://www.webdesignerdepot.com/2011/08/strengthening-behavioral-cues-in-ux-web-design-with-gestalt-principles/)
 * Gnome - [Human Interface Guidelines](https://developer.gnome.org/)
 * Google - [Material Design](http://www.google.com/design/spec/material-design/introduction.html)
+* Khan Academy - [Exercise Dashboard](https://www.khanacademy.org/exercisedashboard)
 * Microsoft - [Guidelines for Windows Runtime apps](http://msdn.microsoft.com/library/windows/apps/hh465424.aspx)
 * [usability.gov](http://www.usability.gov/)
   * ["Research-Based Web Design and Usability Guidelines"](http://guidelines.usability.gov/)

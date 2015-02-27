@@ -12,8 +12,30 @@ published: true
 summary: weekly assignment for COMP 388/441
 ---
 
+#### Week 7 - 26th February 2015
+1) Please review this week's [notes and material](/notes).
+
+2) Relative to your chosen project for the final assessment, please consider and define the following,
+
+  * any tutorial material that would benefit a user of your project's product, website, service etc.
+    * consider the aspects of your new design that should be included in a tutorial
+    * can this tutorial be improved with the use of *gamification*?
+      * if yes, which aspects and how?
+  * choose a page, window, frame etc from your original or new product - one that demonstrates example content and usage
+    * consider default patterns a user might follow within this page etc
+      * eg: which zones, content, links etc are most prevalent within that page etc
+      * does the design and layout follow a prescribed pattern, such as a standard Z or F pattern down the page?
+    * does this page etc adhere to the *Laws of Gestalt*?
+      * which laws, and how?
+      * outline examples for each applicable law within your chosen page etc
+  * post this information to your project's list on the Group Projects board on the course's Trello organisation,
+      * [Group Projects](https://trello.com/b/Hik9bcmi/group-projects)
+    
+3)  Please add a *Spring Break* status report on work conducted towards your project on the above Trello board. This should include an outline 
+of the above completed work, and a brief bullet-point list of goals for the second half of the semester.
+
 #### Week 6 - 19th February 2015
-1) Please review this week's notes, in particular the material concerning the KLM-GOMS model. 
+1) Please review this week's [notes and material](/notes), in particular the material concerning the KLM-GOMS model. 
 
 2) Relative to your chosen project for the final assessment, please consider and define the following,
 
@@ -69,7 +91,7 @@ Presentations will be scheduled for the start of next week's class, which begins
   * your results will be sent out on Friday 6th February 2015 to the provided LUC email address
   * if you have not received your result by the weekend, please [contact](/contact) me
   
-3) Please ensure you have read through all of the course notes for the first four weeks of the semester.
+3) Please ensure you have read through all of the course [notes](/notes) for the first four weeks of the semester.
 
 #### Week 3 - 29th January 2015
 * Please prepare for a quiz at the start of next week's class. This quiz will include the following:

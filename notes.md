@@ -20,6 +20,9 @@ This material will be updated on a weekly basis.
 
 ***
 
+##### Week 7 - 26th February 2015
+  * [course](/assets/docs/Comp388-441-week7.pdf)
+
 ##### Week 6 - 19th February 2015
   * [course](/assets/docs/Comp388-441-week6.pdf)
   
