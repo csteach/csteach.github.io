@@ -60,6 +60,7 @@ Grades will use the following scale,
   * 70% to 61%  = B+
   * 60% to 51%  = B
   * 50% to 41%  = B-
-  * 40% to 0%   = F
+  * 40% to 31%  = C
+  * 30% to 0%   = F
   
   
