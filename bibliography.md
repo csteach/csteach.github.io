@@ -20,6 +20,12 @@ References will be cited at the end of each week's notes.
 
 There is no specific textbook for this course.
 
+###### Week 9 - 12th March 2015
+
+  * Card, S.K., Moran, T.P. and Newell, A. *The psychology of human-computer interaction.* Lawrence Erlbaum Associates. 1983.
+  * Cooper, A. et al. *About Face 3: The essentials of interaction design.* Wiley. 2007.
+  * Shackel, B. *Usability - context, framework, design, and evolution.* Human factors for informatics usability. Cambridge University Press. PP. 21-38. 1991.
+
 ###### Week 7 - 26th February 2015
 
   * Carstens, A., and Beck, J. *Get ready for the gamer generation.* Tech Trends 49. PP.22-25. 2005. 
