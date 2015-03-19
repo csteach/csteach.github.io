@@ -21,6 +21,8 @@ summary: weekly assignment for COMP 388/441
   * please ensure you bring an internet enabled device to class
     * eg: laptop, tablet, smartphone...
 
+Quiz URL = [http://goo.gl/8mppRB](http://goo.gl/8mppRB)
+
 #### Week 7 - 26th February 2015
 1) Please review this week's [notes and material](/notes).
 
