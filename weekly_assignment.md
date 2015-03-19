@@ -13,7 +13,7 @@ summary: weekly assignment for COMP 388/441
 ---
 
 #### Week 9 - 12th March 2015
-* Please prepare for a quiz at the start of next week's class. This quiz will include the following:
+* Please prepare for a quiz during next week's class. This quiz will include the following:
   * material covered within the class [notes](/notes), weeks 4, 6, 7, and 9 inclusive
   * multiple choice questions
   * you will be given one hour to complete this quiz in class
