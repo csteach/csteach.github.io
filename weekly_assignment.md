@@ -12,6 +12,25 @@ published: true
 summary: weekly assignment for COMP 388/441
 ---
 
+#### Week 10 - 19th March 2015
+1) Please review this week's [notes and material](/notes).
+
+2) Relative to your chosen project for the final assessment, please consider and define the following,
+
+  * how you intend to encourage a user's competence relative to your application?
+    * eg: consider the Robinson model of competence, and the various stages
+  * how are you planning to implement consistency within your application's design?
+    * consider patterns relative to design, interaction, knowledge learning...
+    * how will this consistency differ, if at all, relative to internal and external considerations
+    * what role will the Gestalt laws play in your consideration of consistency
+  * how will visibility be integrated within your application to aid user feedback?
+  * what is the role of affordance relative to feedback within your application?
+    * consider both **activational** and **behavioural** feedback
+
+Please post this information to your project's list on the Group Projects board on the course's Trello organisation,
+  
+  * [Group Projects](https://trello.com/b/Hik9bcmi/group-projects)
+
 #### Week 9 - 12th March 2015
 * Please prepare for a quiz during next week's class. This quiz will include the following:
   * material covered within the class [notes](/notes), weeks 4, 6, 7, and 9 inclusive

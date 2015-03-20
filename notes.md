@@ -20,6 +20,9 @@ This material will be updated on a weekly basis.
 
 ***
 
+##### Week 10 - 19th March 2015
+  * [course](/assets/docs/Comp388-441-week10.pdf)
+
 ##### Week 9 - 12th March 2015
   * [course](/assets/docs/Comp388-441-week9.pdf)
 

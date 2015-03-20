@@ -30,6 +30,7 @@ If you have any suggestions for additions to this section of the site, please fe
 #### Videos
 
 * [Adobe Lightroom Metadata](https://helpx.adobe.com/lightroom/how-to/lightroom-filter-metadata.html)
+* [Adobe Photoshop Contextual Menu](https://www.youtube.com/watch?v=CMuhA4HO3MI)
 * [Andi Bell explains the 'link method' memory technique](https://www.youtube.com/watch?v=9NROegsMqNc)
 * [Eye-tracking - Etre Demo](https://www.youtube.com/embed/lo_a2cfBUGc)
 * [Eye-tracking - Google Chrome in Japan](https://www.youtube.com/embed/-K94bZIAiGo)
@@ -38,6 +39,7 @@ If you have any suggestions for additions to this section of the site, please fe
 * [Google's Material Design](https://www.youtube.com/watch?v=p4gmvHyuZzw)
 * [Left-handed in a right-handed world](https://www.youtube.com/watch?v=g1swN72r5Fk)
 * [Milton Glaser](http://vimeo.com/11577085)
+* [Nintendo's Brain Age](https://www.youtube.com/watch?v=JUvBQxBgis0)
 * [No Such Thing As Color - what it's like to be color blind](https://www.youtube.com/watch?v=AUsups6Mk3I)
 * [Sherlock Holmes' Mind Palace](http://www.criticalcommons.org/Members/ccManager/clips/sherlocks2e2memorypalace.mp4/view)
 * [Super Mario Bros](http://youtu.be/2ZuhSB64quY?t=27s)

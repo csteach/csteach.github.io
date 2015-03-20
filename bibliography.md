@@ -20,6 +20,10 @@ References will be cited at the end of each week's notes.
 
 There is no specific textbook for this course.
 
+###### Week 10 - 19th March 2015
+
+  * Robinson, W.L. *Conscious competency - the mark of a competent instructor.* Personnel Journal, 53. PP. 538-9. 1974.
+
 ###### Week 9 - 12th March 2015
 
   * Card, S.K., Moran, T.P. and Newell, A. *The psychology of human-computer interaction.* Lawrence Erlbaum Associates. 1983.
