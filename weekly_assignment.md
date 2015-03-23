@@ -29,7 +29,7 @@ summary: weekly assignment for COMP 388/441
 
 Please post this information to your project's list on the Group Projects board on the course's Trello organisation,
   
-  * [Group Projects](https://trello.com/b/Hik9bcmi/group-projects)
+ <!-- * [Group Projects](https://trello.com/b/Hik9bcmi/group-projects)-->
 
 #### Week 9 - 12th March 2015
 * Please prepare for a quiz during next week's class. This quiz will include the following:
