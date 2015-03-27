@@ -12,6 +12,29 @@ published: true
 summary: weekly assignment for COMP 388/441
 ---
 
+#### Week 11 - 26th March 2015
+1) Please review this week's [notes and material](/notes).
+
+2) Relative to your chosen project for the final assessment, please consider and define the following,
+
+  * consider and outline your application's *interaction concepts* and in particular its required *interaction styles*
+  * outline your initial *information architecture* for your application. In particular, consider the following
+    * naming scheme and glossary
+    * navigation and places
+    * navigation mechanisms
+    * presentation of places
+  * outline your application's common *interaction framework*
+  * create a mockup or prototype for your application
+    * you may choose either a low-fidelity or high-fidelity mockup or prototype
+    * add a brief explanation on your choice of either a mockup or prototype and the associated fidelity
+
+Please post this information to your project's list on the Group Projects board on the course's Trello organisation,
+  
+  * [Group Projects](https://trello.com/b/Hik9bcmi/group-projects)
+  
+We shall also briefly discuss these prototypes and mockups at the start of our next class, Thursday 9th April 2015 at 7pm. Please
+ensure your initial mockup or prototype is ready for this class.
+
 #### Week 10 - 19th March 2015
 1) Please review this week's [notes and material](/notes).
 
