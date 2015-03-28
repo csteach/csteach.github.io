@@ -9,7 +9,7 @@ categories:
 
 tags: coursework
 published: true
-summary: coursework for COMP 488 & DIGH 402
+summary: coursework for COMP 388/441
 ---
 
 Assessed coursework will include the following primary categories
