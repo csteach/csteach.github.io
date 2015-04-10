@@ -27,6 +27,22 @@ If you have any suggestions for additions to this section of the site, please fe
 * [Keystroke-level model for advanced mobile phone interaction](http://dl.acm.org/citation.cfm?id=1240851)
 * [Microsoft's Metro Design](/assets/docs/Windows_Metro.PDF)
 
+#### Frameworks & Libraries - CSS, JS... (a few examples)
+
+  * [Bootstrap](http://getbootstrap.com/)
+  * [D3](http://d3js.org/)
+  * [Foundation](http://foundation.zurb.com/)
+  * [Jekyll & Liquid](http://jekyllrb.com/docs/templates/)
+  * JQuery
+    * [JQuery](https://jquery.com/)
+    * [JQuery UI](http://jqueryui.com/)
+    * [JQuery Mobile](http://jquerymobile.com/)
+  * [Pure CSS](http://purecss.io/)
+  * [Skeleton](http://getskeleton.com/)
+  
+**NB:** there are many other options available, simply search online for [css frameworks](https://www.google.com/search?q=css+frameworks&oq=css+frameworks&aqs=chrome..69i57.2866j0j1&sourceid=chrome&es_sm=119&ie=UTF-8) 
+and choose your favourite.
+
 #### Mockup and Prototype Tools - a few examples
 
   * [Adobe Photoshop](http://goo.gl/GsIYY0), [Illustrator](http://goo.gl/9K8Kfw)
