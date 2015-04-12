@@ -27,7 +27,7 @@ Assessed coursework will include the following primary categories
 * may include demos, designs, testing, prototypes...
 * each assessment will reflect the content and theme of each section
 
-#### 3. demo and report of final assessment (35%)
+#### 3. demo and report of final assessment (35%) - [Report Outline](/assets/docs/COMP388441-FinalReportOutline.pdf)
 
 This assessment requires the design and development of a new interface for an existing computing product, service, 
 application, tool or publication. 
