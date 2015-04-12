@@ -15,7 +15,9 @@ summary: weekly assignment for COMP 388/441
 #### Week 13 - 9th April 2015
 1) Please review this week's [notes and material](/notes).
 
-2) Relative to your chosen project for the final assessment, please consider and define the following,
+2) Please review the [Final Report Outline](/assets/docs/COMP388441-FinalReportOutline.pdf).
+
+3) Relative to your chosen project for the final assessment, please consider and define the following,
 
   * required goals for usability testing you might wish to conduct on either a prototype or finished version of your application
     * refer to slide 3 of this week's class [notes](/notes) for example goals
@@ -26,7 +28,7 @@ Please post this information to your project's list on the Group Projects board 
   
   * [Group Projects](https://trello.com/b/Hik9bcmi/group-projects)
   
-3) Please prepare for a quiz during next week's class. This quiz will include the following:
+4) Please prepare for a quiz during next week's class. This quiz will include the following:
   
   * material covered within the class [notes](/notes), weeks 10, 11, and 13 inclusive
   * there may also be questions from any other week's class [notes](/notes) throughout this semester's course
