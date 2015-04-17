@@ -37,6 +37,9 @@ Please post this information to your project's list on the Group Projects board 
   * please ensure you have a registered Google account, which we'll use to complete the online form
   * please ensure you bring an internet enabled device to class
     * eg: laptop, tablet, smartphone...
+    
+    
+Quiz URL = [http://goo.gl/3h2cq4](http://goo.gl/3h2cq4)
 
 #### Week 11 - 26th March 2015
 1) Please review this week's [notes and material](/notes).
