@@ -20,6 +20,11 @@ References will be cited at the end of each week's notes.
 
 There is no specific textbook for this course.
 
+###### Week 14 - 16th April 2015
+
+  * Nielsen, J. *Heuristic evaluation.* Usability inspection methods. New York. John Wiley and Sons. P. 30. 1994.
+  * Wharton, C. et al. *The cognitive walkthrough method: A practitioner's guide.* Usability inspection methods. New York. John Wiley and Sons. PP. 105-140. 1994.
+
 ###### Week 13 - 9th April 2015
 
   * Tyldesley, D.A. *Employing usability engineering in the development of office products.* Computer Journal, Vol. 31. No. 5, PP. 431-436. 1988.

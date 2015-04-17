@@ -12,6 +12,27 @@ published: true
 summary: weekly assignment for COMP 388/441
 ---
 
+#### Week 14 - 16th April 2015
+1) Please review this week's [notes and material](/notes).
+
+2) Please review the [Final Report Outline](/assets/docs/COMP388441-FinalReportOutline.pdf).
+
+3) Please prepare your project's presentation for next week's class, Thursday 23rd April 2015 at 7pm.
+ 
+  * each group presentation should be between 5 and 10 minutes in length (strict 10 minute maximum)
+  * style of presentation may include a formal presentation (slides etc), online demo or video demonstration
+  * each group's presentation will be anonymously peer reviewed by the class
+    * these comments will only be seen by myself, and will remain private to your colleagues
+  * your presentation should consider the pertinent aspects outlined in the [Final Report Outline](/assets/docs/COMP388441-FinalReportOutline.pdf)
+    * each presentation will be an opportunity to condense this information for demonstration purposes
+  
+  The classroom provides media connections for VGA, HDMI, and general internet access via the desktop computer. 
+  
+  Any questions please let me know.
+  
+  **NB:** It is important that you arrive on time for the start of the class at 7pm. 
+  
+
 #### Week 13 - 9th April 2015
 1) Please review this week's [notes and material](/notes).
 
