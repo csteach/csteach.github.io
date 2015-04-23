@@ -12,6 +12,25 @@ published: true
 summary: weekly assignment for COMP 388/441
 ---
 
+#### Week 15 - 23rd April 2015
+* Brief guidelines for final project presentation and peer review notes
+  * [Guidelines](http://goo.gl/Oa2lgv)
+<!--* Please complete the following peer review forms for each project presentation. Please do not complete a form for your own project.
+  * [Group 1 - Forgetful Fairy by Blake Gideon](http://goo.gl/UrJopK)
+  * [Group 2 - Stack Overflow by Michael Flatley](http://goo.gl/ezGrVj)
+  * [Group 3 - Daily Mail by Aziz Pulatov, Itua Egbor, & Nabeel Ahmed Tanveer](http://goo.gl/JDeDcf)
+  * [Group 4 - The Oregon Trail by Connor Gallagher](http://goo.gl/YAZfXM)
+  * [Group 5 - Pinnacle Project by Katharine Herringshaw, Riley Kleckley, Heather Linich, & Julie Wroblewski](http://goo.gl/fe6tWG)
+  * [Group 6 - Restaurant Management System by Raphael Salvador & Alessandra Velozo](http://goo.gl/ruxPtl)
+  * [Group 7 - Résumé Tie by Abhishek Srivastava](http://goo.gl/FaI3KO)
+  * [Group 8 - Roots4All by Amanda Jensen](http://goo.gl/TFEJKs)
+  * [Group 9 - Perseus Project by Ashley Eckhoff](http://goo.gl/dZkeZY)
+  * [Group 10 - Independent Study Tender by Christopher Robertson](http://goo.gl/ZSm6Kj)
+  * [Group 11 - LingsCars.com by Saheed Amuda & Sharif Onihale](http://goo.gl/hu6334)
+  * [Group 12 - Space Jam by Abdulrahman Alshehri, Brian Liceaga, & Michael Polowski](http://goo.gl/RT3gMg)
+  * [Group 13 - Android Lollipop by Mshari Algazlan](http://goo.gl/cMjvjb)
+  * [Group 14 - Yelp.com by Rakesh Chowdary Damancharla](http://goo.gl/oKNRGD)
+-->
 #### Week 14 - 16th April 2015
 1) Please review this week's [notes and material](/notes).
 
