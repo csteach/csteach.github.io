@@ -13,9 +13,23 @@ summary: weekly assignment for COMP 388/441
 ---
 
 #### Week 15 - 23rd April 2015
+* Please complete your final course assessment, the 'Demo and Report of Final Assessment'. An outline report is available at the following URL,
+  * [Final Report Outline](/assets/docs/COMP388441-FinalReportOutline.pdf).
+* In addition to the suggested final report outline, please feel free to submit other pertinent work or data for consideration
+  * if you submit additional material for consideration, please document and explain it in your report's appendix
+* Each report is an individual student submission, although it may include some shared project details and information
+  * eg: project overview, screenshots, data...
+* Report is due on Thursday 30th April 2015 by 7pm.
+* Please send me a PDF copy of this report. This can be sent as an email attachment to [nhayward@luc.edu](mailto:nhayward@luc.edu?subject=COMP388/441 Final Report) 
+or shared via an online service such as Google Drive, Dropbox etc.
+* Please send me a copy of your presentation material, as demonstrated in class on Thursday 23rd April 2015.
+  * supporting material, including videos, live applications etc will also be considered if submitted
+
+In addition, please complete the following peer review notes for Thursday's class presentations.
+
 * Brief guidelines for final project presentation and peer review notes
   * [Guidelines](http://goo.gl/Oa2lgv)
-<!--* Please complete the following peer review forms for each project presentation. Please do not complete a form for your own project.
+* Please complete the following peer review forms for each project presentation. Please do not complete a form for your own project.
   * [Group 1 - Forgetful Fairy by Blake Gideon](http://goo.gl/UrJopK)
   * [Group 2 - Stack Overflow by Michael Flatley](http://goo.gl/ezGrVj)
   * [Group 3 - Daily Mail by Aziz Pulatov, Itua Egbor, & Nabeel Ahmed Tanveer](http://goo.gl/JDeDcf)
@@ -30,7 +44,12 @@ summary: weekly assignment for COMP 388/441
   * [Group 12 - Space Jam by Abdulrahman Alshehri, Brian Liceaga, & Michael Polowski](http://goo.gl/RT3gMg)
   * [Group 13 - Android Lollipop by Mshari Algazlan](http://goo.gl/cMjvjb)
   * [Group 14 - Yelp.com by Rakesh Chowdary Damancharla](http://goo.gl/oKNRGD)
--->
+
+Please complete the above peer review notes by Monday 27th April 2015 in order to qualify for assessment towards your final grade. 
+
+**NB:** the above peer review process is a required component of the 'demo and report of final assessment' coursework assessment. This is 
+detailed in point 3 of the [Coursework](/coursework) outline.
+
 #### Week 14 - 16th April 2015
 1) Please review this week's [notes and material](/notes).
 
